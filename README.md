@@ -1,0 +1,2 @@
+## Desafío 3
+Este es el tercer desafío del bootcamp Desafío LATAM. Consistía en crear una página a partir de un template creado en adobe. Teníamos que replicar la página lo más parecida posible al template utilizando flexbox como medio de organización.
